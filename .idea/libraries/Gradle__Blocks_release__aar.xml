@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: Blocks-release:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/2098cfd997b47fc77eab431ec654f75a1904ceb8/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/2098cfd997b47fc77eab431ec654f75a1904ceb8/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/Blocks-release-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
