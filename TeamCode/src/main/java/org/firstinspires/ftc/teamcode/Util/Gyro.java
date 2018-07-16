@@ -82,7 +82,7 @@ public class Gyro
     }
 
     //TODO: CHANGE THE AXES
-    private void updateAngeles()
+    private void updateAngles()
     {
         angles = imu.getAngularOrientation(AxesReference.INTRINSIC, AxesOrder.ZYX, AngleUnit.DEGREES);
     }
@@ -90,20 +90,23 @@ public class Gyro
 
 
     public double getRoll(){
-        updateAngeles();
+        updateAngles();
         return angles.secondAngle;
     }
     public double getPitch(){
-        updateAngeles();
+        updateAngles();
         return angles.thirdAngle;
     }
     public double getYaw() {
-        updateAngeles();
+        updateAngles();
         return -++angles.firstAngle;
     }
     public double getAccelerationX(){
 
         return acceleration.xAccel;
+    }
+    public double getAccelerationY(){
+        return acceleration.yAccel;
     }
 
 
