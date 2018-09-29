@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" filepath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rover-Ruckus-2018-2019.iml" filepath="$PROJECT_DIR$/Rover-Ruckus-2018-2019.iml" />
       <module fileurl="file://$PROJECT_DIR$/TeamCode/TeamCode.iml" filepath="$PROJECT_DIR$/TeamCode/TeamCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary343/openCVLibrary343.iml" filepath="$PROJECT_DIR$/openCVLibrary343/openCVLibrary343.iml" />
     </modules>
   </component>
 </project>

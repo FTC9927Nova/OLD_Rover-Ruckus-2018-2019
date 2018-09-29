@@ -12,6 +12,7 @@ MERGED from [:Analytics-release:] /Users/ethanpereira/.gradle/caches/transforms-
 MERGED from [:WirelessP2p-release:] /Users/ethanpereira/.gradle/caches/transforms-1/files-1.1/WirelessP2p-release.aar/5cb653ec15f7749967607ad263f37a3f/AndroidManifest.xml:2:1-11:12
 MERGED from [:Inspection-release:] /Users/ethanpereira/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/c59f8ed5420c80e534ecb6d7ebcf8dfe/AndroidManifest.xml:2:1-32:12
 MERGED from [:Blocks-release:] /Users/ethanpereira/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/bfc693b85fa29f27ab9064efe716200c/AndroidManifest.xml:2:1-41:12
+MERGED from [:openCVLibrary343] /Users/ethanpereira/Documents/FTC/Rover-Ruckus-2018-2019/openCVLibrary343/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 INJECTED from /Users/ethanpereira/Documents/FTC/Rover-Ruckus-2018-2019/TeamCode/src/main/AndroidManifest.xml:8:1-12:12
 INJECTED from /Users/ethanpereira/Documents/FTC/Rover-Ruckus-2018-2019/TeamCode/src/main/AndroidManifest.xml:8:1-12:12
 INJECTED from /Users/ethanpereira/Documents/FTC/Rover-Ruckus-2018-2019/TeamCode/src/main/AndroidManifest.xml:8:1-12:12
@@ -77,6 +78,8 @@ MERGED from [:Inspection-release:] /Users/ethanpereira/.gradle/caches/transforms
 MERGED from [:Inspection-release:] /Users/ethanpereira/.gradle/caches/transforms-1/files-1.1/Inspection-release.aar/c59f8ed5420c80e534ecb6d7ebcf8dfe/AndroidManifest.xml:7:5-9:41
 MERGED from [:Blocks-release:] /Users/ethanpereira/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/bfc693b85fa29f27ab9064efe716200c/AndroidManifest.xml:7:5-9:41
 MERGED from [:Blocks-release:] /Users/ethanpereira/.gradle/caches/transforms-1/files-1.1/Blocks-release.aar/bfc693b85fa29f27ab9064efe716200c/AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary343] /Users/ethanpereira/Documents/FTC/Rover-Ruckus-2018-2019/openCVLibrary343/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary343] /Users/ethanpereira/Documents/FTC/Rover-Ruckus-2018-2019/openCVLibrary343/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 INJECTED from /Users/ethanpereira/Documents/FTC/Rover-Ruckus-2018-2019/TeamCode/src/main/AndroidManifest.xml
 INJECTED from /Users/ethanpereira/Documents/FTC/Rover-Ruckus-2018-2019/TeamCode/src/main/AndroidManifest.xml
 	android:targetSdkVersion
